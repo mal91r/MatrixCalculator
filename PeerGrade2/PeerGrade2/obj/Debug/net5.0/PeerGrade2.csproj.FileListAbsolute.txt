@@ -1,0 +1,16 @@
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.exe
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.deps.json
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.runtimeconfig.json
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.runtimeconfig.dev.json
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.dll
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\ref\PeerGrade2.dll
+D:\PeerGrade\PeerGrade2\PeerGrade2\bin\Debug\net5.0\PeerGrade2.pdb
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.csproj.AssemblyReference.cache
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.AssemblyInfoInputs.cache
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.AssemblyInfo.cs
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.csproj.CoreCompileInputs.cache
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.dll
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\ref\PeerGrade2.dll
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.pdb
+D:\PeerGrade\PeerGrade2\PeerGrade2\obj\Debug\net5.0\PeerGrade2.genruntimeconfig.cache
